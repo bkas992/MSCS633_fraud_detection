@@ -1,0 +1,21 @@
+Assignment: Hands-On Assignment 4
+Fraud Detection using Unsupervised Deep Learning
+
+Programming Language:
+Python 3
+
+Libraries Used:
+pyod
+numpy
+pandas
+scikit-learn
+matplotlib
+
+Model:
+AutoEncoder (PyOD)
+
+Dataset:
+Anonymized credit card transactions dataset from Kaggle
+
+IDE:
+Visual Studio Code
